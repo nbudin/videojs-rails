@@ -6,7 +6,7 @@ Just a little gem that packages up [video.js](http://videojs.com) as a gem so yo
 
 Add to your `Gemfile`:
 
-    gem "videojs"
+    gem "videojs-rails"
 
 Add to your `application.js`:
 
